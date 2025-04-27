@@ -231,3 +231,8 @@
 2025/04/27 22:03:55 Failed to send data: failed to send data: Post "http://localhost:3000/api/processes": dial tcp [::1]:3000: connectex: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
 2025/04/27 22:04:18 Collected 19 processes.
 2025/04/27 22:04:18 Failed to send data: failed to send data: Post "http://localhost:3000/api/processes": dial tcp [::1]:3000: connectex: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión.
+2025/04/27 22:04:38 Process Monitor starting.
+2025/04/27 22:04:38 Debug: Logging system initialized.
+2025/04/27 22:04:41 Collected 24 processes.
+2025/04/27 22:05:04 Collected 21 processes.
+2025/04/27 22:05:27 Collected 21 processes.
